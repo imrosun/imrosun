@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning advance Python and SQL
 - 💞️ I’m looking to collaborate on Data Analyst projects
-- 📫 How to reach me 
+- 📫 How to reach me on
   LinkedIn~ https://www.linkedin.com/in/roshan-sharma-bbb6ba178
 
 <!---
