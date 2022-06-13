@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Roshan_Sharma
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning advance Python and SQL
-- 💞️ I’m looking to collaborate on Data Analyst projects
+- 👋 Hi, I am @Roshan_Sharma
+- 👀 I have skills in DSA, Languages Java, Python(Basics), C++(Basics)
+- 🌱 I’m currently working on Open source projects
+- 💞️ I’m looking for Software Engineer/ Software Developer role
 - 📫 How to reach me on
   LinkedIn~ https://www.linkedin.com/in/roshan-sharma-bbb6ba178
 
