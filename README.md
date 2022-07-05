@@ -4,7 +4,7 @@
 - 💞️ I’m looking for Software Engineer/ Software Developer role
 - 📫 How to reach me on
   LinkedIn~ https://www.linkedin.com/in/roshan-sharma-bbb6ba178
-- 📫 Twitter https://twitter.com/imrosun  
+- 📫 How to reach me on Twitter https://twitter.com/imrosun  
 
 <!---
 imrosun/imrosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
