@@ -1,5 +1,5 @@
 - 👋 Hi, I am @Roshan_Sharma
-- 👀 I have skills in DSA, Languages Java, Python(Basics), C++(Basics)
+- 👀 I have skills in DSA, Languages Java, Python(Basics), C++(Basics), Javascript
 - 🌱 I’m currently working on Open source projects
 - 💞️ I’m looking for Software Engineer/ Software Developer role
 - 📫 How to reach me on
