@@ -1,19 +1,15 @@
 ---
+### 📲: Connect via :
+[![GitHub imrosun](https://img.shields.io/github/followers/imrosun?label=follow&style=social)](https://github.com/imrosun)
+[![Linkedin: Roshan Sharma](https://img.shields.io/badge/-Roshan%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-sharma-bbb6ba178//)](https://www.linkedin.com/in/roshan-sharma-bbb6ba178//)
+[![Twitter: Roshan Sharma](https://img.shields.io/twitter/follow/imrosun?style=social)](https://twitter.com/imrosun)
+
+---
 ### :man_technologist: About Me :
 - 👋 Hi, I am @Roshan_Sharma
 - 👀 I have skills in DSA, Languages Java, Python(Basics), C++(Basics), Javascript
 - 🌱 I’m currently working on Open source projects
 - 💞️ I’m looking for Software Engineer/ Software Developer role
-- 📫 How to reach me 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/roshan-sharma-bbb6ba178/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/home">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=imrosun&style=flat-square&color=blue" alt=""/>
   
 ---
 ### :hammer_and_wrench: Languages and Tools :  
@@ -32,6 +28,9 @@
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imrosun&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+  
  
   
 
