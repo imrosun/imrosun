@@ -1,5 +1,5 @@
 ---
-### 📲: Connect via :
+### :calling: Connect via :
 [![GitHub imrosun](https://img.shields.io/github/followers/imrosun?label=follow&style=social)](https://github.com/imrosun)
 [![Linkedin: Roshan Sharma](https://img.shields.io/badge/-Roshan%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-sharma-bbb6ba178//)](https://www.linkedin.com/in/roshan-sharma-bbb6ba178//)
 [![Twitter: Roshan Sharma](https://img.shields.io/twitter/follow/imrosun?style=social)](https://twitter.com/imrosun)
@@ -29,14 +29,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imrosun&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-  
- 
-  
-
 <!---
 imrosun/imrosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
