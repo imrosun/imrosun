@@ -8,7 +8,7 @@ I develop software, open source enthusiast, and love meeting new people!
 ---
 ### :man_technologist: About Me :
 - 👋 Hi, I am @Roshan_Sharma
-- 👀 I have skiils in DataStructure and Algorithms
+- 👀 I have skills in DataStructure and Algorithms
 - 🌱 I’m currently working on Open source projects
 - 💞️ I’m looking for Software Developer/ Software Engineer
   
