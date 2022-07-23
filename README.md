@@ -10,7 +10,7 @@ I develop software, open source enthusiast, and love meeting new people!
 - 👋 Hi, I am @Roshan_Sharma
 - 👀 I have skills in data structure and algorithms
 - 🌱 I’m currently working on Open source projects
-- 💞️ I’m looking for Software Developer/ Software Engineer
+- 💞️ I’m looking for a software developer or software engineer role
   
 ---
 ### :hammer_and_wrench: Languages and Tools :  
