@@ -33,7 +33,7 @@ I develop software, open source enthusiast, and love meeting new people!
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imrosun&theme=onedark&background=000000)](https://git.io/streak-stats)
+<p><img  src="http://github-readme-streak-stats.herokuapp.com?user=imrosun&range=last_30_days&theme=onedark&background=000000" range="Last 30 Days" alt="imrosun" /></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrosun&layout=compact&theme=dark" width="400" alt="imrosun" /></p>
 
