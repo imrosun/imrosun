@@ -34,9 +34,9 @@ I develop software, open source enthusiast, and love meeting new people!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrosun&layout=compact&theme=calm)](https://github.com/imrosun/github-readme-stats)
 
+<!--- 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=imrosun&show_icons=true&locale=en" width="350" alt="imrosun" /></p>
 
-<!---
 imrosun/imrosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
