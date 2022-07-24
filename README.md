@@ -33,11 +33,11 @@ I develop software, open source enthusiast, and love meeting new people!
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imrosun&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imrosun&theme=onedark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrosun&layout=compact&theme=calm)](https://github.com/imrosun/github-readme-stats)
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrosun&layout=compact&theme=dark" width="400" alt="imrosun" /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=imrosun&show_icons=true&locale=en" width="350" alt="imrosun" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=imrosun&show_icons=true&locale=en&theme=radical" width="350" alt="imrosun" /></p>
 
 <!--- 
 imrosun/imrosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
