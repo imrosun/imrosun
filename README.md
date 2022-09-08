@@ -14,7 +14,6 @@ Currently solving problems on Leetcode and Hackerrank. Looking for remote jobs.
 - 🌱 I’m currently working on Open source projects
 - 💞️ I’m looking for a software developer or software engineer role
 -->
-
 ---
 ### :hammer_and_wrench: Languages and Tools :  
 <div>
