@@ -4,7 +4,7 @@
 [![Twitter: Roshan Sharma](https://img.shields.io/twitter/follow/imrosun?style=social)](https://twitter.com/imrosun)
 
 I develop software, open source enthusiast, and love meeting new people!
-Currently solving problems on Leetcode and Hackerrank. Looking for remote jobs.
+Currently solving problems on Leetcode and Hackerrank. Looking for remote job.
 
 <!---
 ---
