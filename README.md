@@ -15,6 +15,7 @@ Currently solving problems on Leetcode and Hackerrank. Looking for remote job.
 - 💞️ I’m looking for a software developer or software engineer role
 -->
 ---
+
 ### :hammer_and_wrench: Languages and Tools :  
 <div>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp; 
