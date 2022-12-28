@@ -9,7 +9,7 @@ Currently solving problems on Leetcode and Hackerrank. Looking for remote job.
 <!---
 ---
 ### :man_technologist: About Me :
-- 👋 Hi, I am Roshan Sharma
+- 👋 Hi, I am Roshan Sharma Looking for a job
 - 👀 I have skills in data structure and algorithms
 - 🌱 I’m currently working on Open source projects
 - 💞️ I’m looking for a software developer or software engineer role
