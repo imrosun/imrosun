@@ -1,5 +1,5 @@
 ### :calling: Connect via :
-[![GitHub imrosun](https://img.shields.io/github/followers/imrosun?label=follow&style=social&color=inactive)](https://github.com/imrosun)
+[![GitHub imrosun](https://img.shields.io/github/followers/imrosun?label=follow&color=inactive)](https://github.com/imrosun)
 [![Linkedin: Roshan Sharma](https://img.shields.io/badge/-Roshan%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-sharma-/)](https://www.linkedin.com/in/roshan-sharma-bbb6ba178//)
 [![Twitter: Roshan Sharma](https://img.shields.io/twitter/follow/imrosun?style=social)](https://twitter.com/imrosun)
 [![Portfolio: Roshan Sharma](https://img.shields.io/static/v1?label=Portfolio&message=RoshanSharma&color=success)](https://roshan-sharma.vercel.app/)
