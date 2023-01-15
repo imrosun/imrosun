@@ -41,9 +41,9 @@ Currently solving problems on Leetcode and Hackerrank. Looking for a remote job.
 ### :fire: My Stats :
 <p><img  src="http://github-readme-streak-stats.herokuapp.com?user=imrosun&range=last_30_days&theme=onedark&background=000000" width="500" range="Last 30 Days" alt="imrosun" /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrosun&layout=compact&theme=dark" width="400" alt="imrosun" /></p>
+<!-- <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrosun&layout=compact&theme=dark" width="400" alt="imrosun" /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=imrosun&show_icons=true&locale=en&theme=radical" width="350" alt="imrosun" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=imrosun&show_icons=true&locale=en&theme=radical" width="350" alt="imrosun" /></p> -->
 
 <!--- 
 imrosun/imrosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
