@@ -1,7 +1,7 @@
 ### :calling: Connect via :
 [![GitHub imrosun](https://img.shields.io/github/followers/imrosun?label=follow&style=social)](https://github.com/imrosun)
 [![Linkedin: Roshan Sharma](https://img.shields.io/badge/-Roshan%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-sharma-/)](https://www.linkedin.com/in/roshan-sharma-bbb6ba178//)
-[![Twitter: Roshan Sharma](https://img.shields.io/twitter/followers/imrosun?color=yellowgreen&style=social)](https://twitter.com/imrosun)
+[![Twitter: Roshan Sharma](https://img.shields.io/twitter/follow/imrosun?color=yellowgreen&style=social)](https://twitter.com/imrosun)
 [![Portfolio: Roshan Sharma](https://img.shields.io/static/v1?label=Portfolio&message=RoshanSharma&color=success)](https://roshan-sharma.vercel.app/)
 
 
