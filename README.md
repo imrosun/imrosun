@@ -6,7 +6,7 @@
 
 
 I develop software, open source enthusiast, and love meeting new people!
-Currently solving problems on Leetcode and Hackerrank. Looking for a remote job.
+Currently looking for a remote job.
 
 <!---
 ---
