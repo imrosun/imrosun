@@ -7,8 +7,7 @@
 [![Twitter: Roshan Sharma](https://img.shields.io/twitter/follow/imrosun?color=yellowgreen&style=social)](https://twitter.com/imrosun)
 
 
-I will develop full-stack website/app responsive all including frontend, backend and deployment on your favourite domain.
-Connect with me on any above link and Let's talk....
+Open to Work.......
 
 <!---
 ---
